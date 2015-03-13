@@ -1,0 +1,1 @@
+The idea of this project is to provide a platform for any mobile device users where they can access information about new movies including: actors, synopsis and ratings, quickly and easily.
